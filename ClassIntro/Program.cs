@@ -20,7 +20,7 @@ namespace ClassIntro
 
             Product product3 = new Product();
             product3.ProductName = "Melon";
-            product3.Price = 10;
+            product3.Price = 10; 
             product3.Details = "Small Melon";
             product3.StokAdedi = 30;
 
